@@ -1,6 +1,6 @@
 # Movie Search Engine
 
-This is a demo of a movie search engine. This project is inspired by [Andrej Karpathy's weekend hack](https://twitter.com/karpathy/status/1647372603907280896) and is forked from this old project [weaviate/weaviate-examples/movies-search-engine](https://github.com/weaviate/weaviate-examples/tree/main/movies-search-engine).
+This is a demo of a movie search engine. This project is inspired by [Andrej Karpathy's weekend hack](https://twitter.com/karpathy/status/1647372603907280896) 
 
 [![Weaviate](https://img.shields.io/static/v1?label=powered%20by&message=Weaviate%20%E2%9D%A4&color=green&style=flat-square)](https://weaviate.io/) 
  [![Docker support](https://img.shields.io/badge/Docker_support-%E2%9C%93-4c1?style=flat-square&logo=docker&logoColor=white)](https://docs.docker.com/get-started/) [![Demo](https://img.shields.io/badge/Check%20out%20the%20demo!-yellow?&style=flat-square&logo=react&logoColor=white)](https://awesome-moviate.weaviate.io/)
