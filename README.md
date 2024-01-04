@@ -10,7 +10,6 @@ This is a demo of a movie search engine. This project is inspired by [Andrej Kar
 
 This project allows three types of searches over movies: keyword-based (BM25), semantic, and hybrid searches. Additionally, it retrieves similar movies to a selected one.
 
-Read more on the related [blog](https://towardsdatascience.com/recreating-andrej-karpathys-weekend-project-a-movie-search-engine-9b270d7a92e4).
 
 ## Prerequisites
 * Docker
