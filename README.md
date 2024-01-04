@@ -67,4 +67,4 @@ This project is built on three primary components:
 
 ## Open Source Contributions
 
-Your contributions are always welcome! Feel free to contribute ideas, feedback, or create issues and bug reports if you find any! Visit our [Weaviate Community Forum](https://forum.weaviate.io/) if you need any help!
+Your contributions are always welcome! Feel free to contribute ideas, feedback, or create issues and bug reports if you find any!
